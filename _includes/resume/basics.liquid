@@ -51,7 +51,8 @@
           {% for profile in data[1].profiles %}
             <li>
               <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">
-                {{ profile.network }} {{ profile.username }}
+                {{ profile.network }}
+                {{ profile.username }}
               </a>
             </li>
           {% endfor %}

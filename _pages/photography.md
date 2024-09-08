@@ -9,7 +9,6 @@ nav_order: 4
 
 `A picture is worth a thousand words.`
 
-
 <div class="row">
     <div class="col-sm-8">
         {% include figure.liquid loading="eager" path="https://live.staticflickr.com/65535/49298225257_2ba5702305_h.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -73,8 +72,6 @@ nav_order: 4
     </div>
 </div>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="https://live.staticflickr.com/65535/49298141886_2c6950e031_o.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -97,7 +94,6 @@ nav_order: 4
     </div>
 </div>
 
-
 <div class="row">
     <div class="col-sm-4 d-flex align-items-center">
         <div class="caption">
@@ -110,7 +106,6 @@ nav_order: 4
         {% include figure.liquid loading="eager" path="https://live.staticflickr.com/65535/49303141117_0d28f4e91a_o.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -134,7 +129,6 @@ nav_order: 4
     </div>
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="https://live.staticflickr.com/65535/49299220316_5216ba97a0_o.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -156,4 +150,3 @@ nav_order: 4
         </div>
     </div>
 </div>
-

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-An article titled [`Efficient state estimation for high-dimensional wastewater treatment plants based on dynamic mode decomposition`](/sa-prana/publications/) has been submitted to the journal *Water research* for publication :sparkles:
+An article titled [`Efficient state estimation for high-dimensional wastewater treatment plants based on dynamic mode decomposition`](/sa-prana/publications/) has been submitted to the journal _Water research_ for publication :sparkles:

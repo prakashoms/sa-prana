@@ -31,11 +31,12 @@
       "startDate": "Oct 2022",
       "endDate": "Present",
       "summary": "Academic and industrial (Syncrude and Suncor Energy) research.",
-      "highlights": ["Data driven modeling and estimation in a waste water treatment plant.",
-      "Developing softsensor utilizing graph.",
-      "Developing softsensors in the bitumen extraction process and fractionator.",
-      "Devising early foaming detection algorithm for gas treating system.",
-      "Developing hydrocarbon property estimator in the oil blending process."
+      "highlights": [
+        "Data driven modeling and estimation in a waste water treatment plant.",
+        "Developing softsensor utilizing graph.",
+        "Developing softsensors in the bitumen extraction process and fractionator.",
+        "Devising early foaming detection algorithm for gas treating system.",
+        "Developing hydrocarbon property estimator in the oil blending process."
       ]
     },
     {
@@ -56,9 +57,7 @@
       "studyType": "PhD",
       "startDate": "Jul 2016",
       "endDate": "Feb 2022",
-      "courses": ["Developed sensor placement designs for reliability and precision criterion.",
-      "Devised efficient ways to solve them."
-      ]
+      "courses": ["Developed sensor placement designs for reliability and precision criterion.", "Devised efficient ways to solve them."]
     },
     {
       "institution": "Indian Institute of Technology Guwahati [Advisor: Prof. Ramgopal Uppaluri]",
@@ -67,8 +66,7 @@
       "studyType": "MTech",
       "startDate": "Jul 2014",
       "endDate": "Jul 2016",
-      "courses": ["Part of the research was conducted at ABB Research Center in Bangalore under the supervision of Dr. Nareshkumar Nandola."
-      ]
+      "courses": ["Part of the research was conducted at ABB Research Center in Bangalore under the supervision of Dr. Nareshkumar Nandola."]
     },
     {
       "institution": "Rajiv Gandhi Institute of Petroleum Technology [Advisor: Prof. Jyoti Prasad Chakroborty]",
@@ -94,7 +92,6 @@
       "summary": "Competed among 5000 contestants to solve the Windfarm Layout Optimization coding challenge."
     }
   ],
-
 
   "projects": [
     {
