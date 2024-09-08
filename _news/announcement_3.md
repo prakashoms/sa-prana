@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-09-03 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+An article titled [`Real-time Update of Data-Driven Reduced and Full Order Models with Applications`](/sa-prana/publications/) has been submitted to the journal *Computers & Chemical Engineering* and is currently under revision :sparkles:

@@ -25,4 +25,38 @@
       </td>
     </tr>
   {% endfor %}
+
+  {% comment %}
+    The lines below are added later to reflect location and profiles.
+    Location can be removed. If required, Put it out of the comment.
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Location</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        {{ data[1].location.address }}, {{ data[1].location.city }},
+        {{ data[1].location.region }}, {{ data[1].location.countryCode }},
+        {{ data[1].location.postalCode }}
+      </td>
+    </tr>
+  {% endcomment %}
+
+  {% if data[1].profiles %}
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Profiles</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        <ul>
+          {% for profile in data[1].profiles %}
+            <li>
+              <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">
+                {{ profile.network }} {{ profile.username }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </td>
+    </tr>
+  {% endif %}
 </table>
