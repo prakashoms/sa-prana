@@ -234,6 +234,11 @@ let determineComputedTheme = () => {
 let initTheme = () => {
   let themeSetting = determineThemeSetting();
 
+  // Ensure default theme is light if not set or invalid
+  if (themeSetting !== "dark") {
+    themeSetting = "light";
+  }
+  
   setThemeSetting(themeSetting);
 
   // Add event listener to the theme toggle button.
