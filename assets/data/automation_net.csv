@@ -5,27 +5,27 @@ PSE,Process Design,1,2
 PSE,Process Synthesis,1,2
 PSE,Optimization,1,2
 PSE,Control,1,2
-Modeling/Simulation,Energy Systems,2,3
-Data Analytics,Energy Systems,2,4
-Process Design,Energy Systems,2,5
-Process Synthesis,Energy Systems,2,6
-Optimization,Energy Systems,2,7
+Modeling/Simulation, Energy Systems,2,3
+Data Analytics,Energy Systems ,2,4
+Process Design,Energy  Systems,2,5
+Process Synthesis,Energy Systems  ,2,6
+Optimization,Energy Systems   ,2,7
 Control,Energy Systems,2,8
-Modeling/Simulation,Supply Chain Systems,3,3
-Data Analytics,Supply Chain Systems,3,4
-Process Design,Supply Chain Systems,3,5
-Process Synthesis,Supply Chain Systems,3,6
-Optimization,Supply Chain Systems,3,7
+Modeling/Simulation, Supply Chain Systems,3,3
+Data Analytics,Supply Chain Systems  ,3,4
+Process Design,Supply Chain Systems ,3,5
+Process Synthesis,Supply Chain  Systems,3,6
+Optimization,Supply  Chain Systems,3,7
 Control,Supply Chain Systems,3,8
-Modeling/Simulation,Molecular Systems,4,3
-Data Analytics,Molecular Systems,4,4
-Process Design,Molecular Systems,4,5
-Process Synthesis,Molecular Systems,4,6
+Modeling/Simulation, Molecular Systems,4,3
+Data Analytics,Molecular  Systems,4,4
+Process Design,Molecular Systems ,4,5
+Process Synthesis,Molecular Systems  ,4,6
 Optimization,Molecular Systems,4,7
-Control,Molecular Systems,4,8
-Modeling/Simulation,Biosystems,5,3
-Data Analytics,Biosystems,5,4
-Process Design,Biosystems,5,5
-Process Synthesis,Biosystems,5,6
-Optimization,Biosystems,5,7
+Control,Molecular System,4,8
+Modeling/Simulation, Biosystems,5,3
+Data Analytics,Biosystems ,5,4
+Process Design,Biosystems  ,5,5
+Process Synthesis,Biosystem,5,6
+Optimization,Biosystem ,5,7
 Control,Biosystems,5,8

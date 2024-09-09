@@ -20,8 +20,8 @@ The following visualization illustrates the role of PSE:
   display: block;
   border: none; /* Adjusted border for visibility */
   position: relative;
-  width: 80%; /* Custom width */
-  padding-bottom: 60%; /* Aspect ratio adjustment */
+  width: 90%; /* Custom width */
+  padding-bottom: 65%; /* Aspect ratio adjustment */
   vertical-align: middle;
   overflow: auto; /* Enable scroll if content overflows */
   background-color: #f9f9f9; /* Light background color */
@@ -86,7 +86,7 @@ circle {
  
 text {
   fill: #000;
-  font: 25px sans-serif;
+  font: 20px sans-serif;
   pointer-events: none;
 }
  
@@ -122,10 +122,10 @@ var force = d3.layout.force()
     .nodes(d3.values(nodes))
     .links(links)
     .size([width, height])
-    .linkStrength(0.5)//** by default 1
+    .linkStrength(1)//** by default 1
     .friction(0.9)
     .linkDistance(linkLength)
-    .charge(-10000) //** -ve value: repulsion
+    .charge(-700) //** -ve value: repulsion
     .gravity(0.05) //** spring attraction btw nodes.
     .theta(0.8)
     .alpha(0.1)
